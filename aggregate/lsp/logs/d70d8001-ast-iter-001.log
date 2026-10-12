@@ -1,0 +1,7 @@
+[2026-10-12T19:30:05Z] === AST ITERATION 1 START | repo=datasette/datasette-referrer-policy sha=d70d8001 ===
+[2026-10-12T19:30:05Z] [iter=1] PHASE START: ast repo=datasette/datasette-referrer-policy sha=d70d8001
+[2026-10-12T19:30:05Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T19:30:05Z] [iter=1] AST chunks built count=1 triples=3096
+[2026-10-12T19:30:05Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d70d80010b558a545c0c05e93f0bcf137a64e750/.complete
+[2026-10-12T19:30:05Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-12T19:30:05Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
