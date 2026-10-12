@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-referrer-policy",
+  "versions": [
+    {
+      "commit": "d70d80010b558a545c0c05e93f0bcf137a64e750",
+      "tag": "0.1",
+      "parsed_at": "2026-10-12T19:31:38.757399+00:00"
+    }
+  ]
+}
